@@ -42,8 +42,6 @@ The repository contains some examples of TFmini(Plus).
 
 ---
 
-## Applications
-TFmini Users' Applications.
 
 - [Connecting the TFmini to the Pixhawk flight controller via I2C interface](https://discuss.ardupilot.org/t/how-to-make-the-tfmini-rangefinder-talk-i2c/24403)
 <br>This example introduces how to connect the TFmini rangefinder to the Pixhawk flight controller via I2C interface, including the Arduino codes for I2C and the video of flight with TFmini.
