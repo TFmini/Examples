@@ -39,3 +39,20 @@ The repository contains some examples of TFmini(Plus).
 
 - [MomsFriendlyRobotCompany/tfmini(Plus)](https://github.com/MomsFriendlyRobotCompany/tfmini)
 <br>TFmini(Plus)'s Python Driver. 
+
+---
+
+## Applications
+TFmini Users' Applications.
+
+- [Connecting the TFmini to the Pixhawk flight controller via I2C interface](https://discuss.ardupilot.org/t/how-to-make-the-tfmini-rangefinder-talk-i2c/24403)
+<br>This example introduces how to connect the TFmini rangefinder to the Pixhawk flight controller via I2C interface, including the Arduino codes for I2C and the video of flight with TFmini.
+
+- [Connecting multiple TFminis to the Pixhawk flight controller via I2C interface and achieving obstacle avoidance](https://discuss.ardupilot.org/t/avoidance-experiments-with-the-poc-and-benewake-tfmini/25277)
+<br>This example introduces how to connect multiple TFminis to the Pixhawk flight controller via I2C interface and achieve obstacle avoidance, including the Arduino codes for avoidance via TFmini and the video of multiple TFminis working on Pixhawk.
+
+- [Connecting the TFmini to the Teensy 3.5](https://discuss.ardupilot.org/t/benewake-tfmini-inexpensive-lidar-with-teensy-3-5/24510)
+<br>This example introduces how to connect the TFmini to the Teensy 3.5, including serial connection and reading data.
+
+- [patrickpoirier51/TFMINI-POC](https://github.com/patrickpoirier51/TFMINI-POC)
+<br>Avoidance System using the Benewake TFmini. 
