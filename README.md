@@ -24,8 +24,13 @@ The repository contains some examples of TFmini(Plus).
 <br>TFmini(Plus)'s Processing examples: Console or GUI. These codes can be run on macOS, Linux, Windows, Raspbain etc.  
 
 - [TFmini(Plus)-macOS](https://github.com/TFmini/TFmini-macOS)
-<br>Link TFmini(Plus) and macOS with TTL-USB. Developed by Xcode 9 & Swift 4. ORSSerialPort is used. You can download TFmini-1.0.dmg on [release](https://github.com/TFmini/TFmini-macOS/releases).   
+<br>Link TFmini(Plus) and macOS with TTL-USB. Developed by Xcode 9 & Swift 4. ORSSerialPort is used. You can download TFmini-1.0.dmg on [release](https://github.com/TFmini/TFmini-macOS/releases).  
 
+- [TFmini(Plus)-PX4](https://github.com/TFmini/TFmini-PX4)
+<br>Application of TFmini(Plus) in PX4
+
+- [TFmini(Plus)-Pixhawk](https://github.com/TFmini/TFmini-pixhawk)
+<br>Application of TFmini(Plus) in Pixhawk
 ---
 
 - [patrickpoirier51/TFMINI(Plus)](https://github.com/patrickpoirier51/TFMINI)
