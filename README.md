@@ -34,6 +34,9 @@ The repository contains some examples of TFmini(Plus).
 
 - [Switch-Value-Output-of-TFmini-Plus](Switch-Value-Output-of-TFmini-Plus.pdf)
 
+- [TFminiPlus-Arduino](https://github.com/TFmini/TFminiPlus-Arduino)
+<br>This application takes Uno board of Arduino as an example, writing related instructions of TFmini Plus, reading response data from LIDAR, processing and printing measurement data through Arduino
+
 ---
 
 - [patrickpoirier51/TFMINI(Plus)](https://github.com/patrickpoirier51/TFMINI)
