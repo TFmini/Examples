@@ -14,7 +14,7 @@ The repository contains some examples of TFmini(Plus).
 - [4、TFmini(Plus)-STM32](https://github.com/TFmini/TFmini-STM32)
 <br>Used STM32Cube MX and Keil as development tools, include 2 kinds of TFmini(Plus) communication protocol: PIX and Standard Data Format(89BYTE), 2 kinds of output: switching value, CAN.  
 
-- [5 TFmini(Plus)-51MCU](https://github.com/TFmini/TFmini-51MCU)
+- [5、TFmini(Plus)-51MCU](https://github.com/TFmini/TFmini-51MCU)
 <br>TFmini(Plus)'s examples on 51 MCU, like STC89C59, STC12C5A60S2, STC15W204S, STC15F2K60S2 etc, hardware serial and software serial were used.   
 
 - [6、TFmini(Plus)-ROS](https://github.com/TFmini/TFmini-ROS)
