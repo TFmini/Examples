@@ -2,8 +2,12 @@ The repository contains some examples of TFmini(Plus).
 
 ## Examples
 
-- [1、TFmini(Plus)-Arduino](https://github.com/TFmini/TFmini-Arduino)
-<br>Give the TFmini(Plus)'s HardwareSerial_Polling, HardwareSerial_Interrupt, SoftwareSerial, SoftwareSerial_Multiple, SoftwareSerial_Multiple_Frequency, I2C_1Master1Slave etc examples on Arduino. 
+- 1、TFmini(Plus)-Arduino
+  1. 开发例程  
+  2. [TFmini(Plus)-Arduino](https://github.com/TFmini/TFmini-Arduino)
+<br>Give the TFmini(Plus)'s HardwareSerial_Polling, HardwareSerial_Interrupt, SoftwareSerial, SoftwareSerial_Multiple, SoftwareSerial_Multiple_Frequency, I2C_1Master1Slave etc examples on Arduino.   
+  3. [TFmini(Plus)-Arduino（Ⅱ）](https://github.com/TFmini/TFminiPlus-Arduino)
+<br>This application takes Uno board of Arduino as an example, writing related instructions of TFmini Plus, reading response data from LIDAR, processing and printing measurement data through Arduino
 
 - [2、TFmini(Plus)-RaspberryPi](https://github.com/TFmini/TFmini-RaspberryPi)
 <br>Give the TFmini(Plus)'s HardwareSerial, SimulatedSerial examples using Python2 or Python3 on Raspberry Pi.  The Python code can be used in macOS, Linux or Windows.  
@@ -34,8 +38,7 @@ The repository contains some examples of TFmini(Plus).
 
 - [11、Switch-Value-Output-of-TFmini-Plus](Switch-Value-Output-of-TFmini-Plus.pdf)
 
-- [12、TFminiPlus-Arduino](https://github.com/TFmini/TFminiPlus-Arduino)
-<br>This application takes Uno board of Arduino as an example, writing related instructions of TFmini Plus, reading response data from LIDAR, processing and printing measurement data through Arduino
+
 
 ---
 
