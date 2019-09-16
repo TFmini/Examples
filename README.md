@@ -2,9 +2,10 @@ The repository contains some examples of TFmini(Plus).
 
 ## Examples
 
--  1. [TFmini(Plus)-Arduino](https://github.com/TFmini/TFminiPlus-Arduino)
+-  1、TFmini(Plus)-Arduino
+   1. [TFmini(Plus)-Arduino（Ⅰ）](https://github.com/TFmini/TFminiPlus-Arduino)
 <br>This application takes Uno board of Arduino as an example, writing related instructions of TFmini Plus, reading response data from LIDAR, processing and printing measurement data through Arduino
-  2. [TFmini(Plus)-Arduino（Ⅱ）](https://github.com/TFmini/TFmini-Arduino)
+   2. [TFmini(Plus)-Arduino（Ⅱ）](https://github.com/TFmini/TFmini-Arduino)
 <br>Give the TFmini(Plus)'s HardwareSerial_Polling, HardwareSerial_Interrupt, SoftwareSerial, SoftwareSerial_Multiple, SoftwareSerial_Multiple_Frequency, I2C_1Master1Slave etc examples on Arduino.   
  
 
