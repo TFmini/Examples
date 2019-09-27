@@ -36,8 +36,7 @@ The repository contains some examples of TFmini(Plus).
 - [10、TFmini(Plus)-Pixhawk](https://github.com/TFmini/TFmini-pixhawk)
 <br>Application of TFmini(Plus) in Pixhawk
 
-- [11、TFmini(Plus)-Switch Value](https://github.com/TFmini/SwitchValueOutput)  
-Switch Value Output of TFmini(Plus)
+
 
 
 
